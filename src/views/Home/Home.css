@@ -1,0 +1,23 @@
+.form-card {
+    width: 20em;
+    max-width: 80%;
+    filter: drop-shadow(1px 2px 8px grey);
+
+}
+
+.nav {
+    height: 50px;
+    background-color: #61A3BA;
+    padding: 1em;
+    color: beige;
+}
+
+.pane {
+    
+    background-color: #FFFFDD;
+
+}
+
+#canvas {
+    height: 400px;
+}

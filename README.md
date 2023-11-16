@@ -1,3 +1,41 @@
+# FROM HERE YOU NEED TO FIRST RUN { npm install } COMMAND,
+# TO INSTALL NODE_MODULES FOR FIRST TIME.
+
+# AFTER THAT YOU NEED TO RUN FRONTEND AS WELL AS BACKEND SERVER SEPARATELY.
+
+# FOR FRONTEND SIMPLY RUN { npm start } OR { serve -s build } <IF YOU WANT TO RUN PRODUCTION SERVER >
+
+# FOR BACKEND YOU NEED MONGODB RUNNING AT DEFAULT PORT 27017 
+# AFTER THIS RUN SERVER USING { node server/index.js }
+
+# my main focus in this project was on security of pages 
+# for example if a user is loggedin then he can not go to the login page before logging out .
+# and if a user is loggedout he cannot stay on profile page.
+
+# for frontend i used react technology with bootstrap and for backend i used nodejs with mongodb. 
+
+
+
+# I HAVE INCLUDED SOME SCREENSHOTS SHOWING FRONTEND UI AND SERVERS RUNNING
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
