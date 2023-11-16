@@ -1,0 +1,15 @@
+
+.Nav {
+    background-color: aqua;
+    display: flex;
+}
+
+.btns {
+    margin: auto 3em auto auto;
+    display: flex;
+}
+
+.btn {
+    margin: 0.5em;
+    font-size: 1.5em;
+}
